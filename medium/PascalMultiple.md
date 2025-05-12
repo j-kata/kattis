@@ -4,11 +4,11 @@ Given `N` and `K`, compute how many entries in the first `N + 1` rows of Pascal'
 
 Pascal's triangle:
 
-1
-1 1
-1 2 1
-1 3 3 1
-1 4 6 4 1
+1  
+1 1  
+1 2 1  
+1 3 3 1  
+1 4 6 4 1  
 ...
 
 `C(i,j)` is the `j`-th entry of the `i`-th row in Pascal's triangle.

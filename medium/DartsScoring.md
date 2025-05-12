@@ -4,11 +4,11 @@ You need to find all the ways the dart game can be finished in at most three thr
 
 Points:
 
-`Bullseye` - 50 points
-`Outer bullseye` - 25 points
-`Single [i]` - [1..20] depending on the slice `i`
-`Double [i]` - [1..20] \* 2 depending on the slice `i`
-`Triple [i]` - [1..20] \* 3 depending on the slice `i`
+`Bullseye` - 50 points  
+`Outer bullseye` - 25 points  
+`Single [i]` - [1..20] depending on the slice `i`  
+`Double [i]` - [1..20] \* 2 depending on the slice `i`  
+`Triple [i]` - [1..20] \* 3 depending on the slice `i`  
 
 ## Input
 
