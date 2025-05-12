@@ -4,11 +4,11 @@ Check if there are any repeated words in the line.
 
 ## Input
 
-Input is a line containing words separated by single spaces, where a word consists of one or more uppercase letters. A line contains no more than 80 characters.
+Input is a line containing words separated by single spaces, where a word consists of one or more uppercase letters. A line contains no more than `80` characters.
 
 ## Output
 
-The output is "yes" if no word is repeated, and "no" if one or more words repeat.
+The output is `yes` if no word is repeated, and `no` if one or more words repeat.
 
 ## Example
 

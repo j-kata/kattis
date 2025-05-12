@@ -1,14 +1,14 @@
 # Keywords
 
-Catherine considers two keywords _k1_ and _k2_ to be similar if, after replacing hyphens with spaces and ignoring capitalization, _k1_ is the same as _k2_.
-
 Find the number of unique words in the list.
+
+Two keywords `k1` and `k2` are considered to be similar if, after replacing hyphens with spaces and ignoring capitalization, `k1` is the same as `k2`.
 
 ## Input
 
-**First line**: _n_ (1 <= _n_ <= 40 000), where _n_ is the number of keywords int the list.
+**First line**: `n` (`1 <= n <= 40 000`), where `n` is the number of keywords int the list.
 
-**n lines**: each line contains a keyword _K_ that is between 1 and 25 characters in length (inclusive). All characters in a keyword are guaranteed to fall in the [32, 126] ASCII range, and no keyword begins or ends with a space or a hyphen.
+**n lines**: Each line contains a keyword `K` that is between `1` and `25` characters in length (inclusive). All characters in a keyword are guaranteed to fall in the `[32, 126]` ASCII range, and no keyword begins or ends with a space or a hyphen.
 
 ## Output
 

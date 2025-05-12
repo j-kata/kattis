@@ -1,6 +1,6 @@
 # Basic Programming 2
 
-You are give an array `A` of size `N` and a command `t`. Based on the value of `t`, you will perform an action on `A` according to the table:
+You are given an array `A` of size `N` and a command `t`. Based on the value of `t`, you perform an action on `A` according to the table:
 
 | `t` | Action Needed                                                                                                                     |
 | --- | --------------------------------------------------------------------------------------------------------------------------------- |

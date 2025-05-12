@@ -4,13 +4,13 @@ Given a list of names, you are to determine if the list is in increasing alphabe
 
 ## Input
 
-**First line**: N - number of names (2 <= _N_ <= 20).
+**First line**: `N` - number of names (`2 <= N <= 20`).
 
-**N lines**: Each line contain one name (one word, min 2 and max 12 letters, all capital)
+**N lines**: Each line contain one name (one word, min `2` and max `12` letters, all capital)
 
 ## Output
 
-Print **INCREASING** if the list is in increasing alphabetical order, **DECREASING** if it is in decreasing alphabetical order, and otherwise **NEITHER**.
+Print `INCREASING` if the list is in increasing alphabetical order, `DECREASING` if it is in decreasing alphabetical order, and otherwise `NEITHER`.
 
 ## Example
 
