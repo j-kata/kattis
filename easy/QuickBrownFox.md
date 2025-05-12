@@ -4,19 +4,18 @@ A **pangram** is a phrase that includes at least one occurrence of each of the l
 
 Example: _The quick brown fox jumps over the lazy dog_.
 
-### Input
+## Input
 
 **First line**: N - number or lines, where 1 <= N <= 50
 
 **N lines**: Each line (1- 100 character) is a single phrase that may contain upper and lower case letters, spaces, decimal digits and punctuation characters ‘.’, ‘,’, ‘?’, ‘!’, ‘’’ and ‘"’.
 
-### Output
+## Output
 
-Print "pangram" if it is a pangram.
-
+For each pharse print "pangram" if it is a pangram.
 Otherwise, print "missing" followed by space and list of letters, that didn't occur in the phrase.
 
-### Example
+## Example
 
 Sample Input
 
